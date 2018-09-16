@@ -1,0 +1,8 @@
+---
+name: CustomCrafts
+author:  many1337
+version: 0.1
+api: [3.0.0, 4.0.0]
+main: many1337\CustomCraft\Main
+commands: []
+permissions: []
